@@ -3,6 +3,8 @@ Collaborative Filtering on **MovieLens** dataset based on significances.
 
 This is the pythonic implementation of Collaborative Filtering process which is based on significances of both users and items. The original paper referenced can be found [here](https://dl.acm.org/doi/10.1016/j.ins.2011.09.014).
 
+This is purely an academic project which pertains to the Machine Learning course being taught at my university.
+
 ### Data
 
 For this project the **MovieLens 1M** dataset has been used, which can be found [here](https://grouplens.org/datasets/movielens/1m/). You can extract the zip file and put the *ratings.dat* file in the **./input/** folder.
