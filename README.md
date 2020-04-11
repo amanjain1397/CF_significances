@@ -38,7 +38,6 @@ optional arguments:
 ```
 
 ### Working Example
-First we must prepare the text file for the graph edgelist.
 ```bash
 python main.py --input ./input/ratings.dat --num_recomms 10 --user 5 --z 20 --s_measures cosine --k 40 
 Top 10 items recommended for user 5 are  [1264, 3365, 893, 900, 904, 931, 3392, 1020, 1031, 889]
